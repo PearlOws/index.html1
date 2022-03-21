@@ -1,0 +1,261 @@
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Nicki Minaj </title>
+<style type="text/css">
+	* {
+		
+		margin: 0px;
+		padding: 0px;
+	}
+
+body { 
+	background-image: url("Hintergrund_NM.jpg");
+	background-size: inherit;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	
+}
+
+#zentrieren{
+	
+	margin:30px auto auto auto;
+	width: 820px;
+	border-color: #f3e3f35e;
+
+}
+
+#kopf { 
+	height: 100px;
+	background-color:#f3e3f38f;   
+	text-align:center;
+	background-repeat: no-repeat;
+	font-family:'Courier New', Courier, monospace;
+	font-size: 50px;
+	list-style: none;
+	width:1000px;
+    
+}
+
+#navi {
+	background-color: #f3e3f38a;  
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width:1000px;
+	
+}
+
+
+#navi li{
+	font-size: 1.9em;
+	font-weight:bold;
+	list-style: none;
+	display:inline;
+	color: rgb(255, 255, 255);
+	margin-left: 80px;
+	font-family: ;
+	
+}
+
+	#navi li.abstand {
+		margin-left: 80px;
+	}
+	#navi a {
+		color: rgba(0, 0, 0, 0.877);
+		display: inline;
+		}
+	#navi a:hover {
+		color:rgb(255, 255, 255);
+		
+	}
+
+#InnhaltGesamt {
+position: relative;
+overflow: hidden;
+background:#f3e3f35e;
+height: 3950px;
+width:1000px;
+font-size: 25px;
+font-family:'Brush Script MT', 'cursive';
+}
+
+
+#LinkeSpalte {
+	width: 590px;
+	margin: 15px;
+	color: #000000;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 1.2em;
+}
+
+#LinkeSpalteTest {
+
+float:left;
+width:300px;
+padding:4px;
+margin:10px 10px 10px 100px;
+text-align:center;
+
+}
+
+a{
+color:black;
+
+}
+#LinkeSpalte p.fett:first-letter {
+	font-weight:bold; 
+	font-size: 2.8em; 
+	float: left;
+	padding-right:10px;
+}
+
+
+#RechteSpalte {
+	
+	width: 215px;
+	float: right;
+	text-align:center;
+	
+	
+}
+
+
+#FussZeile {
+	height: 30px;
+	padding-top: 15px;
+	background-color: #f3e3f35e;
+	width:1000px;
+}
+
+#FussZeile a{
+	color:#000000;
+	font-weight:bold;
+	padding:15px;
+	text-decoration:none;
+
+}
+
+
+#FussZeile a:hover{
+color:white;
+
+}
+
+li a:hover{
+color:white;
+
+}
+
+a:hover{
+color:white;
+
+}
+</style>
+
+
+</head>
+
+<body >
+<div id="zentrieren">
+
+<div id="LinkeSpalte">
+
+
+</div>
+	
+	<div id="kopf">
+		<li>Nicki Minaj Fan Page</li>
+	
+	</div>
+  	<div id="navi">
+  		  <ul>
+				
+				<li> <a href="https://shop.nickiminajofficial.com">Online-Store</a></li>
+				<li> <a href="https://www.instagram.com/nickiminaj/?hl=de">Instagram</a></li>
+				<li> <a href="https://www.youtube.com/channel/UC3jOd7GUMhpgJRBhiLzuLsg">YouTube</a></li>	
+				
+      	</ul>
+	</div>
+  	<div id="InnhaltGesamt">
+		  
+    		
+        <div id="LinkeSpalte"> 
+             <p class="fett"> Willkommen auf der Nicki Minaj Website.Wenn du ein "Barbz" bist, so wie Nicki Minaj uns (ihre Fans) nennt,
+				  dann weißt du was dich auf dieser Seite erwartet und für die die neu dazu gestoßen sind ,
+				 sind wir eine Fanpage ,die tägliche Updates und wichtige Nachrichten als auch Informationen über die "Queen of Rap" herausgeben .
+			 </p>
+			 <p>&nbsp;</p>
+			</p>Für die die nicht wissen wer Nicki Minaj ist hier eine kleine Biografie:</p>
+              <p>&nbsp;</p>
+              <p>Geboren wurde sie am 08.Dezember 1982 in Saint James,Port of Spain,Trinidad und Tobago.Nicki ist seit 2019 mit Kenneth Petty verheiratet, 
+				  mit dem sie September 2020 ihr erstes Kind bekommen hat.</p>
+              <p>&nbsp;</p>
+              <h3><p>NEWS</p></h3>
+			  
+			  <br><b><h4><p>11.03.2022</p></h4></b><br>
+			  <p>Nicki Minaj lies sich wegen Hänseleien den Hintern aufspritzen.Im exlusiven Interview bei Joe Budden spricht die Rapperin offen darüber 
+			   wie sehr sie sich anfangs ihrer Karriere unter Druck gesetzt gefühlt hat.
+			   <ul>
+				<div id="#LinkeSpalteTest">
+                <img src="nicki-minaj-joe-budden-interview-1200x675.png" width="450"
+				height="350"</a>
+				
+				</div>
+				<a href="https://www.complex.com/music/nicki-minaj-joe-budden-interview">
+					Link zum Interview</a></br>
+			</ul>
+			  </p>
+			  <p>&nbsp;</p>
+			  <br><H4><p>03.03.2022</p></H4><br>
+			   Nicki Minaj und Marc Jacobs veröffentlichen die neue Frühlingskollektion 2022.Das Fotoshooting wurde von Harley Weir durchgeführt.
+			   Mittlerweile sind die meisten Sachen ausverkauft.
+			   <ul>
+				<div id="#LinkeSpalteTest">
+					<img src="Marc Jacobs.jpg" width="450"
+					height="450"</a>
+				
+					</div>  
+
+				<a href="https://www.billboard.com/culture/product-recommendations/nicki-minaj-marc-jacobs-heaven-campaign-1235040432/">
+					Hier zur Marc Jacobs Collecton</a></br>
+			</ul>
+				
+			  <p>&nbsp;</p>
+			  <br><H4><p>21.02.2022</p></H4><br>
+			  <p>Nicki Minaj disst Männer, die Schönheitsstandards für Frauen festlegen sie spricht im Interview darüber,dass sie der Hate nicht störe,aber
+				  es viele Menschen gibt ,die nicht gut mit Hate umgehen können.Auch fügte sie hinzu , das dass andere Geschecht nicht das Recht hätte,
+				  dem anderen Geschlecht zu sagen , wie sie sich anzuziehen oder zu schminken habe.
+			  </p>
+              <ul>
+				<div id="#LinkeSpalteTest">
+					<img src="Interviwe.gif" width="450"
+					height="350"</a>
+
+			  </ul>
+
+			  <a href="https://www.radiohamburg.de/aktuelles/musik/Nicki-Minaj-lie%C3%9F-sich-wegen-H%C3%A4nseleien-den-Hintern-aufspritzen-id656494.html">
+				Hier zum Interview</a></br>
+			  <p>&nbsp;</p>
+			  <H4></H><p>18.02.2022</p></H4><br>
+			  Nach "Do we have a Problem?" und "Bussin" kommt noch viel mehr.Nicki Minaj plant bis zum Album-Release jeden Freitag etwas für ihre Fans zu liefern.
+			  Nicki sagt: <br><b><center> "DAS ALBUM KOMMT SEHR BALD,DESHALB HABE ICH ANGEFANGEN MUSIK ZU VERÖFFENTLICHEN.WIE GESAGT:AB JETZT HEISST ES JEDEN FREITAG "PINK FRIDAY".</b></center>
+			  </p>
+			  <ul>
+				<div id="#LinkeSpalteTest">
+					<img src="Do we have a problem.gif" width="450"
+					height="450"</a>
+
+			  </ul>
+			  <a href="https://www.capitalxtra.com/artists/nicki-minaj/news/new-album-title-release-date-tracklist-features-songs/"></br>
+				Hier zum Album</a></br>
+
+        </div>
+            
+    </div>
+        
+    <div id="FussZeile"><a href="#">Original Fan Page</a>
+	</div>
+	
+</div>
+</body>
+</html>
